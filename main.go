@@ -13,11 +13,8 @@ func main() {
 	// beego.SetStaticPath("/down2", "download2")
     
     //设置session开启
-<<<<<<< HEAD
     //let me see see
-=======
-    
->>>>>>> origin/master
+    //阿斯顿飞洒发，why vscode can't push
 	beego.Run()
     
     
