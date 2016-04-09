@@ -13,6 +13,7 @@ func main() {
 	// beego.SetStaticPath("/down2", "download2")
     
     //设置session开启
+    //let me see see
 	beego.Run()
     
     
